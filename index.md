@@ -1,9 +1,10 @@
 ---
-title: A Great Example
-keywords: great example, spoiler free guide
+title: "Mechanic 8230: Escape from Ilgrot"
+keywords: mechanic
 author: Juho Rutila
 praise: https://www.buymeacoffee.com/jrutila
 ---
 
-A Great Example is the latest and coolest point'n'click game to make example guides of.
-This text is shown to the readers when they got to the Great Example NGH page.
+These are gradual low-spoiler hints for Mechanic 8230: Escape from Ilgrot.
+
+This guide is work in progress. I am tracking if there is enouhg interest for the game. Send me a feedback if you want to see more hints for this game.
