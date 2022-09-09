@@ -1,0 +1,1 @@
+This game's guides are **work in progress**. I am tracking if there is enough interest for the game. Send me a feedback at [Github](https://github.com/nice-game-hints/mechanic8230). You can also participate in the writing of the hints and get your name shown above.
