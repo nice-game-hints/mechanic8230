@@ -1,3 +1,6 @@
+This is the raw repository for low-spoiler guides for Meachanic 8230. The hints are still work in progress and you can participate. Create an issue to start.
+
+
 # Writing a guide
 So, you want to write your own hints for a game? That's cool. Every game should have spoiler free hints! Best place to start is [this template repository](https://github.com/nice-game-hints/template). It has examples and the following instructions.
 
